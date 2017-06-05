@@ -27,3 +27,4 @@ private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {
         jTextArea1.setText("");
         jTextField1.setText("");
     }
+
